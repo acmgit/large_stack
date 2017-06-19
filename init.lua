@@ -1,0 +1,3 @@
+minetest.craftitemdef_default.stack_max=1024
+minetest.nodedef_default.stack_max=1024
+minetest.noneitemdef_default.stack_max=1024
