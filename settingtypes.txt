@@ -1,0 +1,2 @@
+#The maximum amount of items in a stack
+stack_size (Stack size) int 1024
