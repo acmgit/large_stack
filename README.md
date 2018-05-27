@@ -4,7 +4,7 @@ Changes the Stacksize in Minetest from 99 to 1024, or to the number set in the g
 
 ## Do this:
      
-Move this file in the folder of your default mod.
+Move the file largestack.lua in the folder of your default mod.
 Open and edit the file: init.lua there.
 Add to the top of the file following line:
 
